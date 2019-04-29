@@ -1,0 +1,21 @@
+#header {
+    background-color: orange;
+    text-align: center;
+}
+
+div {
+    font-family: Arial
+    padding:10px;
+    margin:10px;
+    border: 2px solid grey;
+    min-height: 300px;
+}
+
+h2, h3, h4 {
+    text-align: center;
+}
+
+.para {
+    float: left;
+    height: 200px;
+}
